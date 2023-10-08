@@ -1,0 +1,8 @@
+.dropdown-item:hover {
+  background-color: #cb121a;
+}
+
+.form-check-input {
+  font-size: 1.5em;
+  cursor: pointer;
+}
